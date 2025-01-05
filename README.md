@@ -2,8 +2,7 @@
 
 ### About me
 
-- ⏳ Postgraduate degree in progress
-- 🚀Studying machine learning techniques applied in agriculture
+- 👩🏻‍🎓 M.Sc. Computer Science
 - 🎓 Bachelor's degree in Computer Engineering
 - 🌱 I’m currently learning about Web Development and Embedded Systems
 - 🩰 My hobbies are dancing and singing
