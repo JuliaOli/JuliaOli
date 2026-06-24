@@ -38,13 +38,13 @@ Currently open to **ML Engineer** and **Edge AI** remote roles.
 
 ### Featured Projects
 
-🌱 [et0-neural-edge](https://github.com/JuliaOli/et0-neural-edge) — ET₀ prediction with ANN + TFLite on ESP32-S3 *(coming soon)*
+🌱 [eto-neural-edge](https://github.com/JuliaOli/eto-neural-edge) — ET₀ prediction with ANN *(updated)*
 
 🔧 [ETo-Embedded-Model
-](https://github.com/JuliaOli/ETo-Embedded-Model
-) — C++ inference engine for embedded deployment *(coming soon)*
+](https://github.com/JuliaOli/et0-embedded-models
+) — ET₀ prediction with ANN TFLite on ESP32-S3 + C++ inference engine for embedded deployment  *(updated)*
 
-⚙️ [confval](https://github.com/JuliaOli/confval) — CLI tool for JSON/YAML config validation with pytest *(coming soon)*
+⚙️ [confval](https://github.com/JuliaOli/confval-cli) — CLI tool for JSON/YAML config validation with pytest *(coming soon)*
 
 ---
 
