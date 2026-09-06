@@ -1,6 +1,6 @@
 ## Hi there! I'm Julia 👋
 
-ML Engineer focused on **embedded AI** and **applied research**.
+Software Engineer focused on **applied research** and **embedded AI**.
 M.Sc. in Computer Science — deployed neural networks on ESP32-S3 with TFLite.
 Currently open to **ML Engineer** and **Edge AI** remote roles.
 
